@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Love Message</title>
+	<style>
+		body {
+			background-color: #f5f5f5;
+			font-family: 'Shippori Antique', serif;
+			font-size: 24px;
+			text-align: center;
+			margin-top: 50px;
+		}
+		h1 {
+			font-family: 'Dancing Script', cursive;
+			font-size: 48px;
+			color: #ff69b4;
+			margin-bottom: 50px;
+		}
+	</style>
+</head>
+<body>
+	<h1>Dear Abang,</h1>
+	<p>You are my boyfriend, the sunshine in my life, the wind beneath my wings, and the love of my life. I am so grateful to have you in my life and I cherish every moment we spend together. You make me feel so special and loved, and I hope I can do the same for you. I love you more than words can express and I can't wait to spend the rest of my life with you.</p>
+    
+    <audio controls autoplay>
+		<source src="penjagahati.mp3" type="audio/mpeg">
+	</audio>
+
+	<div class="kumpulanstiker">
+        <!-- Stiker untuk Konten -->
+        <img src="https://feeldreams.github.io/bunga.gif" id="fotostiker"/>
+        <img src="https://feeldreams.github.io/pusn.gif" id="fotostiker1"/>
+        <img src="https://feeldreams.github.io/pandacoklat.gif" id="fotostiker2"/>
+        <img src="https://feeldreams.github.io/cilukba.gif" id="fotostiker3"/>
+        <img src="https://feeldreams.github.io/pandakuning.gif" id="fotostiker4"/>
+        <img src="https://feeldreams.github.io/emawh.gif" id="fotostiker5"/>
+        
+        <img src="https://feeldreams.github.io/pandacoklat.gif" id="fotostiker6"/>
+    </div>
+</body>
+</html>
